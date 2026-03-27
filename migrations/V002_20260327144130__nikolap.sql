@@ -1,0 +1,1 @@
+Insert into dbo.TestPraza (ID) values (1)
